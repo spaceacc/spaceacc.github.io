@@ -10,32 +10,35 @@ type FeatureItem = {
 
 const FeatureList: FeatureItem[] = [
   {
-    title: 'Easy to Use',
+    title: 'Open Source',
     Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        Space/ACC embraces open-source principles, inviting global 
+        collaboration and empowering developers to contribute to the 
+        advancement of space technology freely.
       </>
     ),
   },
   {
-    title: 'Focus on What Matters',
+    title: 'Community Driven',
     Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        At Space/ACC, we thrive on real-world community, fostering a 
+        dynamic network of enthusiasts, professionals, and innovators 
+        united by a passion for space exploration and acceleration.
       </>
     ),
   },
   {
-    title: 'Powered by React',
+    title: 'Innovation',
     Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        Space/ACC is dedicated to driving innovation in space technology, 
+        pushing boundaries, and pioneering groundbreaking solutions through 
+        cutting-edge research and development initiatives.
       </>
     ),
   },

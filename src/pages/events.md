@@ -11,7 +11,7 @@ Whether you're a seasoned space professional or just getting started, attending 
 
 ## Pop-Up Cities:
 
-### [ZuVillage 2024](https://zuvillage-georgia.framer.website/)
+### [ZuVillage 2024](events/zuvillage)
 - **Date:** July - August 2024 (TBA)
 - **Location:** Georgia
 - **Description:** Sp/Acc track at ZuVillage Georgia which is a popup village for truth seekers, builders, and sovereign individuals guided by cypherpunk and d/acc philosophies. ZuVillage Georgia is an iteration of the original Zuzalu in Montenegro 2023, with additional ambition towards finding alignment over a shared cultural, technological, and societal direction. 

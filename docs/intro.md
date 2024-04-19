@@ -2,46 +2,16 @@
 sidebar_position: 1
 ---
 
-# Tutorial Intro
+# What is Space Accelerationism?
 
-Let's discover **Docusaurus in less than 5 minutes**.
+Welcome to Space Accelerationism (Space/ACC) – an open source community-driven hub dedicated to accelerating advancements in space exploration and technology.
 
-## Getting Started
+**Space Accelerationism** is a philosophy that we must propel humanity's journey into the cosmos at an unprecedented, exponential pace. It embodies the spirit of innovation, collaboration, and exploration, pushing the boundaries of what's possible in space exploration, and putting the tools in the hands of the people all over the world, as we move off-world.
 
-Get started by **creating a new site**.
+**Space/ACC** believes in harnessing open-source tools and community-driven initiatives to accelerate progress in space technology. This platform serves as a hub for enthusiasts, professionals, entrepreneurs, and innovators from around the globe to come together, exchange ideas, and [contribute](directory/contribute) to shaping the future of space exploration.
 
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
+We are fostering real-world connections and engagement by establishing local chapters, hubs, and [IRL events](/events) in key space locations such as Florida's Space Coast, Starbase TX, and beyond. These hubs serve as focal points for collaboration, education, and networking, bridging the gap between the digital realm and physical communities passionate about space exploration.
 
-### What you'll need
+Join us as we build our off-world, driven by a shared passion for discovery and a determination to accelerate humanity's reach among the stars.
 
-- [Node.js](https://nodejs.org/en/download/) version 18.0 or above:
-  - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
-
-## Generate a new site
-
-Generate a new Docusaurus site using the **classic template**.
-
-The classic template will automatically be added to your project after you run the command:
-
-```bash
-npm init docusaurus@latest my-website classic
-```
-
-You can type this command into Command Prompt, Powershell, Terminal, or any other integrated terminal of your code editor.
-
-The command also installs all necessary dependencies you need to run Docusaurus.
-
-## Start your site
-
-Run the development server:
-
-```bash
-cd my-website
-npm run start
-```
-
-The `cd` command changes the directory you're working with. In order to work with your newly created Docusaurus site, you'll need to navigate the terminal there.
-
-The `npm run start` command builds your website locally and serves it through a development server, ready for you to view at http://localhost:3000/.
-
-Open `docs/intro.md` (this page) and edit some lines: the site **reloads automatically** and displays your changes.
+Explore, contribute, and accelerate with **Space/ACC** – because the future of space exploration starts here.
