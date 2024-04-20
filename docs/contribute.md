@@ -1,6 +1,6 @@
 ---
-sidebar_position: 1
-title: Add to Directory
+sidebar_position: 3
+title: Contribute
 ---
 
 # Contribution Guidelines

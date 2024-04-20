@@ -16,17 +16,11 @@
 ## Content Creators
 
 * CSI Starbase: CSI Starbase provides detailed analysis and coverage of SpaceX's activities at the Boca Chica launch site, offering in-depth investigations and discussions on Starship development, testing, and innovations.
-
 * Ellie in Space: Ellie in Space is a social media influencer known for her coverage and updates on SpaceX's activities at the Boca Chica launch site, offering engaging content and behind-the-scenes insights into Starship development.
-
 * Everyday Astronaut: Everyday Astronaut, run by Tim Dodd, provides educational content and coverage of various aspects of space exploration, including SpaceX's activities in Boca Chica, through his YouTube channel and social media platforms.
-
 * LabPadre: LabPadre is a YouTube channel and online community dedicated to providing live streams and updates on SpaceX's activities at the Boca Chica launch site, including Starship testing and launches.
-
 * NASASpaceflight.com: NASASpaceflight.com is a community-driven website and forum that covers spaceflight news, offering extensive coverage and analysis of SpaceX's activities in Boca Chica, including Starship development and testing.
-
 * RGV Aerial Photography: RGV Aerial Photography, also known as Nomadd, offers stunning aerial footage and photography of SpaceX's facilities in Boca Chica, providing unique perspectives on Starship development and testing.
-
 * SpaceX Fleet: SpaceX Fleet, operated by Julia Bergeron, offers updates and insights into SpaceX's fleet operations, including support vessels and activities related to Starship testing and launches, providing valuable information for enthusiasts and followers of SpaceX's missions.
 
 ## Learning Materials

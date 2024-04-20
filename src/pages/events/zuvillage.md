@@ -9,7 +9,11 @@ Summit: July 19th - July 20th
 
 Hackathon Demo Day: July 21st
 
-[Visit Website](https://zuvillage-georgia.framer.website/)
+## [Visit Website](https://zuvillage-georgia.framer.website/)
+
+## Registration
+
+[Apply here](https://blocksurvey.io/zuvillager-application-form-Ac.exePQQQGs60O9cmJYUg?v=o)
 
 ## Track Topics
 - Space infra - rockets, satellites, mission control, engineering challenges

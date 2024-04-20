@@ -60,14 +60,31 @@ function Feature({title, Svg, description}: FeatureItem) {
 
 export default function HomepageFeatures(): JSX.Element {
   return (
-    <section className={styles.features}>
-      <div className="container">
-        <div className="row">
-          {FeatureList.map((props, idx) => (
-            <Feature key={idx} {...props} />
-          ))}
+    <>
+      <section className={styles.features}>
+        <div className="container">
+          <div className="row">
+            {FeatureList.map((props, idx) => (
+              <Feature key={idx} {...props} />
+            ))}
+          </div>
         </div>
-      </div>
-    </section>
+      </section>
+      <section className={styles.AboutSection}>
+        <div className="container">
+          <div className="row">
+            <div className="col col--12">
+              <p>
+                Space/ACC is a global community united by a shared vision: we must 
+                accelerate our multiplanetary future. We want to democratize access 
+                to space exploration through open-source, decentralized tools. Together, 
+                we believe that by harnessing the collective power of the global 
+                community, we can pave the way into the final frontier.
+              </p>
+            </div>
+          </div>
+        </div>
+      </section>
+    </>
   );
 }
