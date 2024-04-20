@@ -10,18 +10,18 @@ type FeatureItem = {
 
 const FeatureList: FeatureItem[] = [
   {
-    title: 'Open Source',
+    title: 'Exponential',
     Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
-        Space/ACC embraces open-source principles, inviting global 
-        collaboration and empowering developers to contribute to the 
-        advancement of space technology freely.
+        Space/ACC is dedicated to driving innovation in space technology, 
+        pushing boundaries, and pioneering groundbreaking solutions through 
+        cutting-edge tech and development initiatives.
       </>
     ),
   },
   {
-    title: 'Community Driven',
+    title: 'Community',
     Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
@@ -32,13 +32,13 @@ const FeatureList: FeatureItem[] = [
     ),
   },
   {
-    title: 'Innovation',
+    title: 'Open',
     Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
-        Space/ACC is dedicated to driving innovation in space technology, 
-        pushing boundaries, and pioneering groundbreaking solutions through 
-        cutting-edge research and development initiatives.
+        Space/ACC embraces open-source principles, inviting global 
+        collaboration and empowering developers to contribute to the 
+        advancement of space technology freely.
       </>
     ),
   },

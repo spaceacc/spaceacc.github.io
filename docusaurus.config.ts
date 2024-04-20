@@ -4,7 +4,7 @@ import type * as Preset from '@docusaurus/preset-classic';
 
 const config: Config = {
   title: 'Space/ACC',
-  tagline: '(A)cceleration = (F)orce of Efforts * Critical (M)ass of People',
+  tagline: '(A)cceleration = (F)orce of Efforts * (M)ass of People',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
