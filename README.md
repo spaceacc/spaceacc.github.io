@@ -1,6 +1,6 @@
 # Space/ACC
 
-Space/ACC (spaceacc.com) is an open-source directory website to space projects, events, and education. This repository serves as the codebase for the website. Please fork the repo and make changes to the markdown files to contribute.
+Space/ACC (spaceacc.com) is an open-source website dedicated to space projects, events, and education. This repository serves as the codebase for the website. Please fork the repo and make changes to the markdown files to contribute.
 
 ## Contribution Guidelines
 
