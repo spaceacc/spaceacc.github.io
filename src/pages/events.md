@@ -35,7 +35,7 @@ Whether you're a seasoned space professional or just getting started, attending 
 - **Location:** Las Vegas, NV
 - **Description:** ASCEND connects the civil, commercial, and national security space sectors, along with adjacent industries, to embrace the opportunities and address the challenges that come with increased activity in space. Building our sustainable off-world future requires long-term thinking. Strategic planning, innovation, scientific exploration, and effective regulations and standards will help us preserve space for future generations.
 
-### [Mars Society Convention 2024](https://mkt.marssociety.org/convention-registration)
+### [Mars Society Convention](https://mkt.marssociety.org/convention-registration)
 - **Date:** August 8-11, 2024
 - **Location:** University of Washington, Seattle, WA
 - **Description:** The convention will bring together a diverse array of experts including scientists, engineers, aerospace executives, policymakers, journalists, and space enthusiasts to discuss humanity’s journey to the planet Mars in the coming years. This year’s theme, “The Road to Mars,” reflects the growing momentum and public interest in the exploration and potential colonization of the Red Planet.

@@ -1,9 +1,9 @@
 # ZuVillage Georgia
-- **Date:** Week 3: Space Technology + Hackathon
+- **Date:** July 15th - July 21st ZuVillage Week 3: Space Technology + Hackathon
 - **Location:** Georgia
 - **Description:** Sp/Acc track at ZuVillage Georgia which is a popup village for truth seekers, builders, and sovereign individuals guided by cypherpunk and d/acc philosophies. ZuVillage Georgia is an iteration of the original Zuzalu in Montenegro 2023, with additional ambition towards finding alignment over a shared cultural, technological, and societal direction. 
 
-July 15th - July 20th
+July 15th - July 21st
 
 Summit: July 19th - July 20th
 
