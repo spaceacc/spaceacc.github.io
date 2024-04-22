@@ -59,7 +59,7 @@ const config: Config = {
     // Replace with your project's social card
     image: 'img/docusaurus-social-card.jpg',
     navbar: {
-      title: 'Space/ACC',
+      title: 'Space/ACC 🚀',
       logo: {
         alt: 'Space/ACC Logo',
         src: 'img/logo.svg',
@@ -115,7 +115,7 @@ const config: Config = {
           ],
         },
       ],
-      copyright: `Made by ${new Date().getFullYear()} Space/ACC community. Built with Docusaurus.`,
+      copyright: `Made by ${new Date().getFullYear()} Space/ACC Community.`,
     },
     prism: {
       theme: prismThemes.github,

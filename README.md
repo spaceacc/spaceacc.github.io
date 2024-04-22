@@ -1,6 +1,6 @@
 # Space/ACC
 
-[Space/ACC](https://spaceacc.com) is an open-source website dedicated to space projects, events, and education. This repository serves as the codebase for the website. Please fork the repo and make changes to the markdown files to contribute.
+[Space/ACC](https://spaceacc.com) is an open-source website dedicated to space projects, events, and education. This repository serves as the codebase for the website. Please contribute by forking the repo and making changes to the markdown files.
 
 ## Contribution Guidelines
 Space/ACC welcomes contributions through GitHub Pull Requests. Please ensure that your pull request follows these guidelines:
