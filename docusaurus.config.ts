@@ -3,7 +3,7 @@ import type {Config} from '@docusaurus/types';
 import type * as Preset from '@docusaurus/preset-classic';
 
 const config: Config = {
-  title: 'Space/ACC',
+  title: 'Space/ACC 🚀',
   tagline: '(A)cceleration = (F)orce of Efforts * (M)ass of People',
   favicon: 'img/favicon.ico',
 
@@ -20,7 +20,7 @@ const config: Config = {
 
   onBrokenLinks: 'log',
   onBrokenMarkdownLinks: 'warn',
-  trailingSlash: 'false',
+  trailingSlash: false,
 
   // Even if you don't use internationalization, you can use this field to set
   // useful metadata like html lang. For example, if your site is Chinese, you
