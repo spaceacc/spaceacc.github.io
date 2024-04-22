@@ -11,9 +11,9 @@ Whether you're a seasoned space professional or just getting started, attending 
 
 ## Pop-Up Cities:
 
-### [ZuVillage 2024](events/zuvillage)
+### [ZuVillage Georgia](events/zuvillage)
 - **Date:** July - August 2024 (TBA)
-- **Location:** Georgia
+- **Location:** Georgia 
 - **Description:** Sp/Acc track at ZuVillage Georgia which is a popup village for truth seekers, builders, and sovereign individuals guided by cypherpunk and d/acc philosophies. ZuVillage Georgia is an iteration of the original Zuzalu in Montenegro 2023, with additional ambition towards finding alignment over a shared cultural, technological, and societal direction. 
 
 <!--
@@ -29,6 +29,16 @@ Whether you're a seasoned space professional or just getting started, attending 
 - **Date:** May 7-8, 2024
 - **Location:** George Washington University, Washington D.C.
 - **Description:** H2M 2024 elevates beyond a typical summit. Anchoring the 5-day Humans to Mars Week, it embodies a fusion of pioneering ideas, profound insights, and a shared passion for the human exploration of Mars. At H2M 2024, participants will interact with leading experts across fields such as space exploration, science, technological innovation, industry, policy, entertainment, STEM education, and skilled trades, among others.
+
+### [Space Tourism Conference](https://www.spacetourismconf.com/)
+- **Date:** May 22, 2024
+- **Location:** Los Angeles, CA
+- **Description:** Space Tourism Conference (STC) presents the cross-section of industries comprising space tourism: aerospace, media, entertainment, architecture, design, advertising, marketing, finance, high tech, science, manufacturing, futurism and the arts.
+
+### [International Space Development Conference](https://isdc.nss.org/)
+- **Date:** May 23-26, 2024
+- **Location:** Los Angeles, CA
+- **Description:** The ISDC® is where space leaders, astronauts, enthusiasts and the next generations of young students and professionals gather each year. ISDC® 2024 will host various sessions and workshops focused in multiple areas of space development: Moon and Mars exploration and settlement, deep space exploration, innovative technology, science fiction influence in today’s technology, commercialization of space, collaboration in space, asteroids, space solar power, space debris, and space law and policy, among others.
 
 ### [Ascend](https://www.ascend.events/)
 - **Date:** July 30 – 1 August, 2024
