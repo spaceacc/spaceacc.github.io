@@ -50,6 +50,11 @@ Whether you're a seasoned space professional or just getting started, attending 
 - **Location:** University of Washington, Seattle, WA
 - **Description:** The convention will bring together a diverse array of experts including scientists, engineers, aerospace executives, policymakers, journalists, and space enthusiasts to discuss humanity’s journey to the planet Mars in the coming years. This year’s theme, “The Road to Mars,” reflects the growing momentum and public interest in the exploration and potential colonization of the Red Planet.
 
+### [New Worlds](https://earthlightfoundation.org/new-worlds/)
+- **Date:** October 4-5, 2024
+- **Location:** Houston, TX
+- **Description:** The EarthLight Foundation (ELF) will host the eight annual New Worlds space conference in in Houston, TX. Top names in space technology, research, and business join astronauts, artists, and experts in policy, education, and human health in a unique renaissance event that has been called “the best little space conference on the planet.”
+
 ### [IAC](https://www.iac2024.org/)
 - **Date:** October 14-18, 2024
 - **Location:** Milan, Italy
