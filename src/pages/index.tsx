@@ -20,7 +20,7 @@ function HomepageHeader() {
           <Link
             className="button button--secondary button--lg"
             to="/docs/intro">
-            Explore Resources 🚀
+            Open Space Resources 🚀
           </Link>
         </div>
       </div>
@@ -33,7 +33,7 @@ export default function Home(): JSX.Element {
   return (
     <Layout
       title={`${siteConfig.title}`}
-      description="Description will go into a meta tag in <head />">
+      description="Exponentially Accelerate Toward a Multiplanetary Future">
       <HomepageHeader />
       <main>
         <HomepageFeatures />
