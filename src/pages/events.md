@@ -11,13 +11,13 @@ Whether you're a seasoned space professional or just getting started, attending 
 
 ## Pop-Up Cities:
 
-### [ZuVillage Georgia](events/zuvillage)
+### [ZuVillage Georgia](/events/zuvillage)
 - **Date:** July - August 2024 (TBA)
 - **Location:** Georgia 
 - **Description:** Sp/Acc track at ZuVillage Georgia which is a popup village for truth seekers, builders, and sovereign individuals guided by cypherpunk and d/acc philosophies. ZuVillage Georgia is an iteration of the original Zuzalu in Montenegro 2023, with additional ambition towards finding alignment over a shared cultural, technological, and societal direction. 
 
 <!--
-### [Starbase/ACC](events/starbaseacc) 
+### [Starbase/ACC](/events/starbaseacc) 
 - **Date:** Winter 2024/2025 (TBA)
 - **Location:** Starbase, TX
 - **Description:** Space/ACC is in the planning phases for a 1-2 month pop-up city at the heart of the Gateway to Mars. Come down to co-work, unconference, hack and build in our makerspace, enjoy some sun when everywhere else is freezing, and maybe catch a Starship rocket launch.
