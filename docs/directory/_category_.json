@@ -1,6 +1,6 @@
 {
-  "label": "Space Directory",
-  "position": 2,
+  "label": "Open Space Directory",
+  "position": 3,
   "link": {
     "type": "generated-index",
     "description": "A curated list of space-related code, APIs, data, and other resources. Originally forked from the Awesome Space GitHub Repo."

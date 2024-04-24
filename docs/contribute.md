@@ -1,6 +1,6 @@
 ---
-sidebar_position: 3
-title: Contribute
+sidebar_position: 2
+title: Contribute to Space/ACC 🚀
 ---
 
 # Contribution Guidelines

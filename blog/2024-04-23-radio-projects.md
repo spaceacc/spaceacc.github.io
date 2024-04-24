@@ -11,6 +11,8 @@ tags: [amateur radio]
 
 Embarking on a journey into amateur radio, enthusiasts can delve into the world of Raspberry Pi, transforming it into a versatile hub for exploration.
 
+<!--truncate-->
+
 ## Setting Up the Raspberry Pi
 
 With a Raspberry Pi at your disposal, you can embark on a transformative journey, converting it into a versatile platform capable of diverse radio-related tasks. The process begins with the installation and configuration of Ubuntu, turning the Raspberry Pi into a full-fledged server, distinct from conventional computing devices like desktop computers or iPads.

@@ -1,5 +1,7 @@
 # Community
 
+Conferences, Online Events, Space Hackathons and Challenges, Working Groups, and More.
+
 ## Conferences
 
 * Space Symposium: A premier global space conference hosted by the Space Foundation, bringing together industry leaders, policymakers, and space enthusiasts to discuss the latest trends and advancements in space exploration, technology, and policy.
@@ -21,5 +23,5 @@
 
 ## Working Groups
 
-* [Lunar Surface Innovation Consortium (LSIC)](https://lsic.jhuapl.edu/) - The Lunar Surface Innovation Consortium (LSIC) aims to leverage national creativity, energy, and resources to support NASA's lunar exploration efforts, operating under the Lunar Surface Innovation Initiative (LSII) to facilitate collaboration among academia, industry, and government stakeholders.
+* [Lunar Surface Innovation Consortium (LSIC)](https://lsic.jhuapl.edu/) - The Lunar Surface Innovation Consortium (LSIC) aims to leverage national creativity, energy, and resources to support NASA's lunar exploration efforts, operating under the Lunar Surface Innovation Initiative (LSII) to facilitate collaboration among academia, industry, and government stakeholders. Watch recordings from previous LSIC meetings on [YouTube](https://www.youtube.com/@aplwebinarsandevents9160/streams).
 * [Open Source Satellite](https://www.opensourcesatellite.org/) - Ecosystem for sharing ideas and creating a "highly capable, flexible and affordable open source microsatellite platform." Founded by "a team of international space experts" dedicated to open source.

@@ -1,5 +1,7 @@
 # Spacecraft
 
+Satellites, Software, Ground Stations, Mission Control & Design, Simulation, Hardware, GNSS Receivers, Radios, Star Trackers, and More.
+
 ## Full Satellites
 
 * [Quetzal-1](https://github.com/Quetzal-1-CubeSat-Team) - Quetzal-1 was a 1U CubeSat developed by an engineering team from Universidad del Valle de Guatemala (UVG). Quetzal-1 operated successfully in space for 211 days.

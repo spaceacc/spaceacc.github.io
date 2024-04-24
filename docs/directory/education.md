@@ -1,5 +1,7 @@
 # Education
 
+Books, Content Creators, Learning Materials, Podcasts and More.
+
 ## Books
 
 * "Deep Space Communications" by Jim Taylor and William J. Barott: This book covers the principles and technologies of deep space communication systems, including spacecraft antennas, modulation techniques, and interplanetary communication protocols.
