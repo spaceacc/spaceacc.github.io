@@ -9,6 +9,11 @@ Whether you're a seasoned space professional or just getting started, attending 
 - **Location:** Melbourne, Florida
 - **Description:** The Space Coast Hard Tech Hackathon is a two-day event for hardcore hackers interested in building the future of hardware, aerospace, manufacturing and defense. Help make Florida the hub for innovative aerospace and defense startups! 
 
+### [NASA Space Apps Challenge](https://www.spaceappschallenge.org/)
+- **Date:** October 5-6, 2024
+- **Location:** Worldwide
+- **Description:** A global hackathon-style event organized by NASA, inviting participants worldwide to collaborate and innovate on solutions to challenges related to space exploration and Earth science. Participants, including engineers, scientists, designers, and entrepreneurs, form teams to tackle specific challenges using NASA's open data, tools, and resources over a weekend-long event.
+
 ## Pop-Up Cities:
 
 ### [ZuVillage Georgia](/events/zuvillage)

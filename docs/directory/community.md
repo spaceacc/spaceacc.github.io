@@ -4,13 +4,15 @@ Conferences, Online Events, Space Hackathons and Challenges, Working Groups, and
 
 ## Conferences
 
-* Space Symposium: A premier global space conference hosted by the Space Foundation, bringing together industry leaders, policymakers, and space enthusiasts to discuss the latest trends and advancements in space exploration, technology, and policy.
-* International Astronautical Congress (IAC): The largest annual gathering of space professionals worldwide, organized by the International Astronautical Federation (IAF), providing a platform for collaboration, knowledge-sharing, and networking across various sectors of the space industry.
-* Mars Society Convention: An annual conference organized by The Mars Society, dedicated to advancing human exploration and settlement of Mars, featuring presentations, panel discussions, and workshops on topics related to Mars exploration, technology, and colonization.
-* New Worlds Conference: A conference focused on space settlement and the future of humanity in space, bringing together visionaries, scientists, entrepreneurs, and policymakers to explore innovative approaches to space colonization and sustainable off-world habitats.
-* National Space Symposium: Hosted by the National Space Foundation, this conference gathers space industry leaders, government officials, and stakeholders to discuss critical issues and opportunities in space policy, commerce, and exploration.
-* Space Tech Expo: An annual trade show and conference showcasing the latest advancements in space technology, satellite systems, and aerospace engineering, providing a platform for industry professionals to connect, collaborate, and showcase their innovations.
-* Satellite Conference & Exhibition: The largest event dedicated to the satellite and space industry, featuring conference sessions, exhibitions, and networking opportunities for professionals involved in satellite communications, remote sensing, and space-based technologies.
+* [Space Symposium](https://www.spacesymposium.org/): A premier global space conference hosted by the Space Foundation, bringing together industry leaders, policymakers, and space enthusiasts to discuss the latest trends and advancements in space exploration, technology, and policy.
+* [International Astronautical Congress (IAC)](https://www.iafastro.org/events/iac/): The largest annual gathering of space professionals worldwide, organized by the International Astronautical Federation (IAF), providing a platform for collaboration, knowledge-sharing, and networking across various sectors of the space industry.
+* [Mars Society Convention](https://www.marssociety.org/convention/): An annual conference organized by The Mars Society, dedicated to advancing human exploration and settlement of Mars, featuring presentations, panel discussions, and workshops on topics related to Mars exploration, technology, and colonization.
+* [New Worlds Conference](https://newworlds.space/): A conference focused on space settlement and the future of humanity in space, bringing together visionaries, scientists, entrepreneurs, and policymakers to explore innovative approaches to space colonization and sustainable off-world habitats.
+* [National Space Symposium](https://www.spacesymposium.org/): Hosted by the National Space Foundation, this conference gathers space industry leaders, government officials, and stakeholders to discuss critical issues and opportunities in space policy, commerce, and exploration.
+* [Space Tech Expo](https://www.spacetechexpo.com/): An annual trade show and conference showcasing the latest advancements in space technology, satellite systems, and aerospace engineering, providing a platform for industry professionals to connect, collaborate, and showcase their innovations.
+* [Satellite Conference & Exhibition](https://www.satshow.com/): The largest event dedicated to the satellite and space industry, featuring conference sessions, exhibitions, and networking opportunities for professionals involved in satellite communications, remote sensing, and space-based technologies.
+
+Also be sure to check out our [Events](/events) hub for other upcoming hackathons, pop-up cities, and conferences.
 
 ## Online Events
 
