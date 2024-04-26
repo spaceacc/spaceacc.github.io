@@ -1,10 +1,14 @@
+---
+title: Space Medicine
+---
+
 # Open Source and Open Science Resources in Space Medicine
 
 Space medicine is a specialized field that focuses on the health and well-being of astronauts during space missions. Several organizations provide open source and open science resources related to space medicine, offering valuable insights and research opportunities for scientists, engineers, and enthusiasts alike.
 
 ## Online Events
 
-- [Space Medicine Didactics](https://spacemedicinedidactics.com/): A collaboration between the UCLA Health, University of Colorado, UT Houston, MGH, and Baylor Space Medicine programs that provides monthly didactic Zoom meetings around space medicine. 
+- [Space Medicine Didactics](http://spacemedicinedidactics.com/): A collaboration between the UCLA Health, University of Colorado, UT Houston, MGH, and Baylor Space Medicine programs that provides monthly didactic Zoom meetings around space medicine. 
 
 ## Organizations:
 - [NASA Human Research Program (HRP)](https://www.nasa.gov/hrp): NASA's Human Research Program conducts research to address the health risks associated with long-duration spaceflight. Their website provides access to a wide range of open-access resources, including research findings, publications, data sets, and educational materials.
