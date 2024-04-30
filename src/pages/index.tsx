@@ -33,7 +33,7 @@ export default function Home(): JSX.Element {
   return (
     <Layout
       title={`${siteConfig.title}`}
-      description="Exponentially Accelerate Toward a Multiplanetary Future">
+      description="Exponential Acceleration Toward a Multiplanetary Future">
       <HomepageHeader />
       <main>
         <HomepageFeatures />

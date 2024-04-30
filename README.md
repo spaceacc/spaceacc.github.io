@@ -1,9 +1,9 @@
 # Space/ACC 🚀
 
-[Space/ACC](https://spaceacc.com) 🚀 is an open-source website dedicated to space projects, events, and self-education. This repository serves as the codebase for the public website. Please contribute by forking the repo and making changes to the markdown files.
+[Space/ACC](https://spaceacc.com) 🚀 is an open-source, community-driven website dedicated to space projects, events, and education. This repository serves as the codebase for the public website. Please contribute by forking the repo and making changes to the markdown files.
 
 ## Contribution Guidelines
-Space/ACC welcomes contributions through GitHub Pull Requests. Please ensure that your pull request follows these guidelines:
+Space/ACC 🚀 welcomes contributions through GitHub Pull Requests. Please ensure that your pull request follows these guidelines:
 
 - The addition is related to space exploration, commercial space, DIY space, astronomy projects, amateur radio, amateur rocketry, DIY satellites, CubeSats, ground stations, space science, cosmology, or related fields.
 - Check that your link or resources aren't already on the site or suggested in an outstanding or closed pull request.
@@ -14,4 +14,4 @@ Space/ACC welcomes contributions through GitHub Pull Requests. Please ensure tha
 ## License
 This project is licensed under the MIT License. By contributing to this project, you agree to abide by the terms of this license.
 
-Thank you for contributing to Space/ACC!
+Thank you for contributing to Space/ACC 🚀 let's accelerate!

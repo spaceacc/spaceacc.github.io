@@ -6,6 +6,10 @@ title: Radio
 
 A curated collection of resources and links for amateur radio enthusiasts.
 
+## Learn
+
+- [A HAM Book](https://k3cr.github.io/newhambook/) - A GitHub webbook for future or new hams with explanations for a lot of hand-on ham activities like WebSDR, APRS, satellite tracking, and more. [GitHub](https://github.com/K3CR/newhambook)
+
 ## Antenna
 
 Explore a variety of antenna designs and projects for different bands and purposes.
@@ -270,7 +274,6 @@ Recommended online stores for purchasing amateur radio equipment and accessories
   - [Ham Made Parts](https://hammadeparts.com/)
   - [Ham Radio Outlet](https://www.hamradio.com/)
   - [Kits and Parts](https://kitsandparts.com/)
-  - [MFJ](https://mfjenterprises.com/)
   - [Radio Daze](https://www.radiodaze.com/)
   - [RFSpace](http://www.rfspace.com/)
   - [West Mountain Radio](http://www.westmountainradio.com/)

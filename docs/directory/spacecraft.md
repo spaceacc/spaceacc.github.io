@@ -58,6 +58,7 @@ Satellites, Software, Ground Stations, Mission Control & Design, Simulation, Har
 
 * [FossaSat-1](https://fossa.systems/fossasat/) - Hardware designs and software for the FossaSat-1 Pocketqube satellite ([GitHub](https://github.com/Bambofy/FossaSat-1))
 * [NASA Outgassing Db](https://data.nasa.gov/resource/r588-f7pr.json) - A dataset of materials intended for spacecraft use from the Goddard Space Flight Center, the Stanford Research Institute, and the Jet Propulsion Laboratory.
+* [Open Source Rover](https://github.com/nasa-jpl/open-source-rover) - The JPL Open Source Rover is an open source, build it yourself, scaled down version of the 6 wheel rover design that JPL uses to explore the surface of Mars. 
 * [Oresat](https://github.com/oresat) - An open source cubesat developed at Oregon Small Satellite Project.
 * [ProjectInertia](https://github.com/chrismolli/ProjectInertia) - An open source hardware platform to achieve a FRAM-based radiation-tolerant microcontroller for space application. The firmware is being developed in Rust.
 * [PyCubed](https://www.notion.so/PyCubed-4cbfac7e9b684852a2ab2193bd485c4d) - An Open-Source, Radiation-Tested CubeSat Framework Programmable Entirely in Python.
@@ -65,6 +66,20 @@ Satellites, Software, Ground Stations, Mission Control & Design, Simulation, Har
 * [Radiation Test Database](http://radwg.web.cern.ch/content/radiation-test-database) - Radiation test results for many components.
 * [SatSearch](http://satsearch.co), [CubeSatShop](https://www.cubesatshop.com/) - Search engines for satellite parts and their datasheets
 * [The AMSAT CubeSat Simulator Project](http://cubesatsim.org/) - a low cost satellite emulator that runs on solar panels and batteries, transmits UHF radio telemetry, has a 3D printed frame, and can be extended by additional sensors and modules.
+* [UPSat](https://upsat.gr/) - Open source satellite software and hardware
+
+## Spacecraft Software
+
+* [cFS Basecamp](https://github.com/cfs-tools/cfs-basecamp) - Provides a lightweight environment to help you learn NASA’s cFS and create app-based solutions for your projects. The built-in hands-on tutorials shorten the path to productivity.
+* [Core Flight System](https://github.com/nasa/cfs) - NASA portable and extendable flight software framework with extensive flight heritage and a growing suite of applications and platform ports
+* [FossaSat-1](https://fossa.systems/fossasat/) - Hardware designs and software for the FossaSat-1 Pocketqube satellite ([GitHub](https://github.com/Bambofy/FossaSat-1))
+* [NASA JPL F Prime](https://github.com/nasa/fprime) - NASA JPL F Prime (FÊ¹) is a component-driven framework that enables rapid development and deployment of spaceflight and other embedded software applications, originally developed at the Jet Propulsion Laboratory.
+* [KubOS](https://www.kubos.com/kubos/) - An open-source flight software framework for satellites
+* [LibreCube](https://librecube.org/) - Open source space and Earth exploration. Defining a generic architecture of system of systems that have standardized interfaces makes it possible to combine and reuse elements for various applications
+* [Linux4Space](https://linux4space.org/) - Open source Yocto based Linux distribution suitable for space applications
+* [NanoSat MO Framework](http://nanosat-mo-framework.github.io) - A software framework for nanosatellites based on the latest CCSDS standards. Developed by ESA and used in OPS-SAT mission ([GitHub](https://github.com/esa/nanosat-mo-framework))
+* [OpenSatKit](https://github.com/OpenSatKit/OpenSatKit) - A complete [Core Flight System](https://github.com/nasa/cfs) training and application development environment that includes [COSMOS](https://cosmosrb.com/) and [42](https://software.nasa.gov/software/GSC-16720-1)
+* [SatCat5](https://github.com/the-aerospace-corporation/satcat5) - A mixed-media Ethernet switch for connecting smallsat payloads
 * [UPSat](https://upsat.gr/) - Open source satellite software and hardware
 
 ### GNSS Receivers
@@ -81,23 +96,10 @@ Satellites, Software, Ground Stations, Mission Control & Design, Simulation, Har
 * [MIT Tetra](https://github.com/brownj4/Tetra) and its fork, [ESA Tetra](https://github.com/esa/tetra3) - Open source star tracker which relies more extensively on hashes for faster lookups
 * [Oresat star tracker](https://github.com/oresat/oresat-star-tracker) - Open star tracker hardware [with software](https://github.com/oresat/oresat-star-tracker-software), based on UPNanosatLab's [openstartracker](https://github.com/UBNanosatLab/openstartracker) (which doesn't compile or have hardware)
 
-## Spacecraft Software
-
-* [cFS Basecamp](https://github.com/cfs-tools/cfs-basecamp) - Provides a lightweight environment to help you learn NASA’s cFS and create app-based solutions for your projects. The built-in hands-on tutorials shorten the path to productivity.
-* [Core Flight System](https://github.com/nasa/cfs) - NASA portable and extendable flight software framework with extensive flight heritage and a growing suite of applications and platform ports
-* [FossaSat-1](https://fossa.systems/fossasat/) - Hardware designs and software for the FossaSat-1 Pocketqube satellite ([GitHub](https://github.com/Bambofy/FossaSat-1))
-* [JPL F Prime](https://github.com/nasa/fprime) - F Prime (FÊ¹) is a component-driven framework that enables rapid development and deployment of spaceflight and other embedded software applications, originally developed at the Jet Propulsion Laboratory.
-* [KubOS](https://www.kubos.com/kubos/) - An open-source flight software framework for satellites
-* [LibreCube](https://librecube.org/) - Open source space and Earth exploration. Defining a generic architecture of system of systems that have standardized interfaces makes it possible to combine and reuse elements for various applications
-* [Linux4Space](https://linux4space.org/) - Open source Yocto based Linux distribution suitable for space applications
-* [NanoSat MO Framework](http://nanosat-mo-framework.github.io) - A software framework for nanosatellites based on the latest CCSDS standards. Developed by ESA and used in OPS-SAT mission ([GitHub](https://github.com/esa/nanosat-mo-framework))
-* [OpenSatKit](https://github.com/OpenSatKit/OpenSatKit) - A complete [Core Flight System](https://github.com/nasa/cfs) training and application development environment that includes [COSMOS](https://cosmosrb.com/) and [42](https://software.nasa.gov/software/GSC-16720-1)
-* [SatCat5](https://github.com/the-aerospace-corporation/satcat5) - A mixed-media Ethernet switch for connecting smallsat payloads
-* [UPSat](https://upsat.gr/) - Open source satellite software and hardware
-
 ### Legacy
 
 * [Apollo 11 Guidance Code](https://github.com/chrislgarry/Apollo-11) - Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules
+* [Virtual AGC](https://github.com/virtualagc/virtualagc) - A virtual machine which simulates the Apollo Guidance Computer, the DSKY, and some other portions of the guidance system. 
 
 ## Tracking & Orbit Determination
 

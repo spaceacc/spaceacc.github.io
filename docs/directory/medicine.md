@@ -2,7 +2,7 @@
 title: Space Medicine
 ---
 
-# Open Source and Open Science Resources in Space Medicine
+# Space Medicine
 
 Space medicine is a specialized field that focuses on the health and well-being of astronauts during space missions. Several organizations provide open source and open science resources related to space medicine, offering valuable insights and research opportunities for scientists, engineers, and enthusiasts alike.
 
